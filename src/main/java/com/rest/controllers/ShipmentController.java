@@ -1,5 +1,4 @@
-
-package com.ztar.controllers;
+package com.rest.controllers;
 
 import java.util.HashMap;
 
